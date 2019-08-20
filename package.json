@@ -1,0 +1,25 @@
+{
+  "name": "react-ai-input",
+  "version": "0.1.3",
+  "description": "input for ai voice",
+  "main": "./src/main.js",
+  "license": "MIT",
+  "private": false,
+  "author": "caih@yuanian.com",
+  "keywords": [
+    "react",
+    "recorder"
+  ],
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "0.9.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
