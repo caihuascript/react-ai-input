@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "@beisen/ts": "1.x.x",
-    "@beisen/build": "1.x.x",
+    "@beisen/build": "2.x.x",
     "@beisen/babel": "7.x.x",
     "@beisen/storybook": "1.x.x",
     "@beisen/storybook-react": "4.x.x",
