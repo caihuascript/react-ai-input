@@ -19,13 +19,13 @@
     "@beisen/storybook-react": "4.x.x",
     "@beisen/italent-thunder": "1.x.x",
     "@beisen/webpack": "4.x.x",
-    "commitizen": "2.x.x",
+    "commitizen": "4.x.x",
     "cz-conventional-changelog": "2.x.x",
     "@types/react": "16.x.x",
     "@types/react-dom": "16.x.x",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "0.9.x"
+    "react-scripts": "5.0.x"
   },
   "devDependencies": {},
   "scripts": {
